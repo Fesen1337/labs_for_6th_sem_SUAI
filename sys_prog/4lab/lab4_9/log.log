@@ -1,0 +1,14 @@
+Date: 05/29/22 17:15:41: Thread #0: Start downloading file ./Great_Pyranid_of_Giza.jpg 
+Date: 05/29/22 17:15:41: Thread #2: Start downloading file ./Statue_of_Zeus_at_Olympia.jpg 
+Date: 05/29/22 17:15:41: Thread #6: Start downloading file ./Lighthouse_of_Alexandria.png 
+Date: 05/29/22 17:15:41: Thread #3: Start downloading file ./Temple_of_Artemis.jpg 
+Date: 05/29/22 17:15:41: Thread #4: Start downloading file ./Mausoleum_at_Halicarnassus.png 
+Date: 05/29/22 17:15:41: Thread #1: Start downloading file ./Hanging_Gardens_of_Babylon.jpg 
+Date: 05/29/22 17:15:41: Thread #5: Start downloading file ./Colossus_of_Rhodes.jpg 
+Date: 05/29/22 17:15:42: Thread #2: End downloading file ./Statue_of_Zeus_at_Olympia.jpg 
+Date: 05/29/22 17:15:43: Thread #0: End downloading file ./Great_Pyranid_of_Giza.jpg 
+Date: 05/29/22 17:15:43: Thread #5: End downloading file ./Colossus_of_Rhodes.jpg 
+Date: 05/29/22 17:15:43: Thread #1: End downloading file ./Hanging_Gardens_of_Babylon.jpg 
+Date: 05/29/22 17:15:43: Thread #6: End downloading file ./Lighthouse_of_Alexandria.png 
+Date: 05/29/22 17:15:43: Thread #3: End downloading file ./Temple_of_Artemis.jpg 
+Date: 05/29/22 17:15:43: Thread #4: End downloading file ./Mausoleum_at_Halicarnassus.png 

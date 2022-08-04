@@ -1,0 +1,10 @@
+Date: 05/21/22 17:24:35: Thread #1: Try to read file: 1 
+Date: 05/21/22 17:24:35: Thread #2: Try to read file: 2 
+Date: 05/21/22 17:24:35: Thread #2: Opened file: 2 
+Date: 05/21/22 17:24:35: Thread #2: Was find link -> |https://github.com/| in file: 2 
+Date: 05/21/22 17:24:35: Thread #2: Was find link -> |https://pro.guap.ru/exters/| in file: 2 
+Date: 05/21/22 17:24:35: Thread #1: Opened file: 1 
+Date: 05/21/22 17:24:35: Thread #1: Was find link -> |https://youtube.com/| in file: 1 
+Date: 05/21/22 17:24:35: Thread #1: Was find link -> |https://vk.com| in file: 1 
+Date: 05/21/22 17:24:35: Thread #2: Closed file: 2 
+Date: 05/21/22 17:24:35: Thread #1: Closed file: 1 

@@ -1,0 +1,20 @@
+Date: 05/19/22 13:10:00: Thread #0: Start calculatuing 0 item 
+Date: 05/19/22 13:10:00: Thread #2: Start calculatuing 2 item 
+Date: 05/19/22 13:10:00: Thread #4: Start calculatuing 4 item 
+Date: 05/19/22 13:10:00: Thread #4: Item : (4) =  26970 
+Date: 05/19/22 13:10:00: Thread #2: Item : (2) =  261495 
+Date: 05/19/22 13:10:00: Thread #1: Start calculatuing 1 item 
+Date: 05/19/22 13:10:00: Thread #0: Item : (0) =  225234 
+Date: 05/19/22 13:10:00: Thread #3: Start calculatuing 3 item 
+Date: 05/19/22 13:10:00: Thread #3: Item : (3) =  371063 
+Date: 05/19/22 13:10:00: Thread #1: Item : (1) =  34846 
+Date: 05/19/22 13:12:03: Thread #0: Start calculatuing 0 item 
+Date: 05/19/22 13:12:03: Thread #0: Item : (0) =  4440 
+Date: 05/19/22 10:12:03: Thread #3: Start calculatuing 3 item 
+Date: 05/19/22 13:12:03: Thread #4: Start calculatuing 4 item 
+Date: 05/19/22 13:12:03: Thread #3: Item : (3) =  100386 
+Date: 05/19/22 13:12:03: Thread #1: Start calculatuing 1 item 
+Date: 05/19/22 13:12:03: Thread #2: Start calculatuing 2 item 
+Date: 05/19/22 13:12:03: Thread #2: Item : (2) =  21375 
+Date: 05/19/22 13:12:03: Thread #1: Item : (1) =  122668 
+Date: 05/19/22 13:12:03: Thread #4: Item : (4) =  56196 

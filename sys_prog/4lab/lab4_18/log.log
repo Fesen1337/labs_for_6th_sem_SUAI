@@ -1,0 +1,50 @@
+Date: 05/13/22 15:38:53: Thread #0: Start calculatuing 0 0 item 
+Date: 05/13/22 15:38:53: Thread #1: Start calculatuing 0 1 item 
+Date: 05/13/22 15:38:53: Thread #2: Start calculatuing 0 2 item 
+Date: 05/13/22 15:38:53: Thread #3: Start calculatuing 0 3 item 
+Date: 05/13/22 15:38:53: Thread #4: Start calculatuing 0 4 item 
+Date: 05/13/22 15:38:53: Thread #4: Item : (0 4) =  198 
+Date: 05/13/22 15:38:53: Thread #0: Item : (0 0) =  161 
+Date: 05/13/22 15:38:53: Thread #0: Start calculatuing 1 0 item 
+Date: 05/13/22 15:38:53: Thread #1: Item : (0 1) =  128 
+Date: 05/13/22 15:38:53: Thread #1: Start calculatuing 1 1 item 
+Date: 05/13/22 15:38:53: Thread #1: Item : (1 1) =  146 
+Date: 05/13/22 15:38:53: Thread #1: Start calculatuing 2 1 item 
+Date: 05/13/22 15:38:53: Thread #1: Item : (2 1) =  32 
+Date: 05/13/22 15:38:53: Thread #1: Start calculatuing 3 1 item 
+Date: 05/13/22 15:38:53: Thread #1: Item : (3 1) =  121 
+Date: 05/13/22 15:38:53: Thread #1: Start calculatuing 4 1 item 
+Date: 05/13/22 15:38:53: Thread #1: Item : (4 1) =  138 
+Date: 05/13/22 15:38:53: Thread #2: Item : (0 2) =  127 
+Date: 05/13/22 15:38:53: Thread #0: Item : (1 0) =  191 
+Date: 05/13/22 15:38:53: Thread #0: Start calculatuing 2 0 item 
+Date: 05/13/22 15:38:53: Thread #0: Item : (2 0) =  39 
+Date: 05/13/22 15:38:53: Thread #0: Start calculatuing 3 0 item 
+Date: 05/13/22 15:38:53: Thread #3: Item : (0 3) =  156 
+Date: 05/13/22 15:38:53: Thread #4: Start calculatuing 1 4 item 
+Date: 05/13/22 15:38:53: Thread #4: Item : (1 4) =  216 
+Date: 05/13/22 15:38:53: Thread #4: Start calculatuing 2 4 item 
+Date: 05/13/22 15:38:53: Thread #3: Start calculatuing 1 3 item 
+Date: 05/13/22 15:38:53: Thread #2: Start calculatuing 1 2 item 
+Date: 05/13/22 15:38:53: Thread #0: Item : (3 0) =  163 
+Date: 05/13/22 15:38:53: Thread #0: Start calculatuing 4 0 item 
+Date: 05/13/22 15:38:53: Thread #3: Item : (1 3) =  220 
+Date: 05/13/22 15:38:53: Thread #2: Item : (1 2) =  124 
+Date: 05/13/22 15:38:53: Thread #2: Start calculatuing 2 2 item 
+Date: 05/13/22 15:38:53: Thread #2: Item : (2 2) =  18 
+Date: 05/13/22 15:38:53: Thread #2: Start calculatuing 3 2 item 
+Date: 05/13/22 15:38:53: Thread #2: Item : (3 2) =  112 
+Date: 05/13/22 15:38:53: Thread #2: Start calculatuing 4 2 item 
+Date: 05/13/22 15:38:53: Thread #2: Item : (4 2) =  85 
+Date: 05/13/22 15:38:53: Thread #0: Item : (4 0) =  125 
+Date: 05/13/22 15:38:53: Thread #3: Start calculatuing 2 3 item 
+Date: 05/13/22 15:38:53: Thread #4: Item : (2 4) =  36 
+Date: 05/13/22 15:38:53: Thread #3: Item : (2 3) =  58 
+Date: 05/13/22 15:38:53: Thread #4: Start calculatuing 3 4 item 
+Date: 05/13/22 15:38:53: Thread #3: Start calculatuing 3 3 item 
+Date: 05/13/22 15:38:53: Thread #4: Item : (3 4) =  192 
+Date: 05/13/22 15:38:53: Thread #3: Item : (3 3) =  103 
+Date: 05/13/22 15:38:53: Thread #4: Start calculatuing 4 4 item 
+Date: 05/13/22 15:38:53: Thread #3: Start calculatuing 4 3 item 
+Date: 05/13/22 15:38:53: Thread #4: Item : (4 4) =  144 
+Date: 05/13/22 15:38:53: Thread #3: Item : (4 3) =  144 

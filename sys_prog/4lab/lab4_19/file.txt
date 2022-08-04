@@ -1,0 +1,6 @@
+13 12 11 10 9 8 7 6 5 4 3 2 1
+qtc prs mno jkl ghi def abc
+101112 789 456 123
+zxcvbnm ssdfghj qwertyui
+12 1234 12345 123456 123456781234567 1234567890
+q qw qwe qwer qwert qwerty qwertyu qwertyui qwertyuio qwertyuiop

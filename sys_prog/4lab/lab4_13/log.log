@@ -1,0 +1,14 @@
+Date: 05/25/22 02:33:37: Thread #0: Start calculatuing factorial of 5 
+Date: 05/25/22 02:33:37: Thread #2: Start calculatuing factorial of 7 
+Date: 05/25/22 02:33:37: Thread #0: End calculation factorial of 5. Res = 120 
+Date: 05/25/22 02:33:37: Thread #6: Start calculatuing factorial of 11 
+Date: 05/25/22 02:33:37: Thread #1: Start calculatuing factorial of 6 
+Date: 05/25/22 02:33:37: Thread #5: Start calculatuing factorial of 10 
+Date: 05/25/22 02:33:37: Thread #4: Start calculatuing factorial of 9 
+Date: 05/25/22 02:33:37: Thread #4: End calculation factorial of 9. Res = 362880 
+Date: 05/25/22 02:33:37: Thread #2: End calculation factorial of 7. Res = 5040 
+Date: 05/25/22 02:33:37: Thread #3: Start calculatuing factorial of 8 
+Date: 05/25/22 02:33:37: Thread #1: End calculation factorial of 6. Res = 720 
+Date: 05/25/22 02:33:37: Thread #5: End calculation factorial of 10. Res = 3628800 
+Date: 05/25/22 02:33:37: Thread #6: End calculation factorial of 11. Res = 39916800 
+Date: 05/25/22 02:33:37: Thread #3: End calculation factorial of 8. Res = 40320 
